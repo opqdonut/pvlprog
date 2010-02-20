@@ -1,3 +1,5 @@
+/* http://blogs.humanisti.fixme.fi/ohpe/?p=89 */
+
 public class Account{
 	public Account() {
 	}

@@ -1,3 +1,5 @@
+/* http://blogs.humanisti.fixme.fi/ohpe/?p=89 */
+
 public class AccountTester {
 	public static void main(String[] args) {
 		Account account1 = new Account(400);
